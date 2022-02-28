@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\homeCon;
+use App\Http\Controllers\aboutCon;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,3 +19,4 @@ Route::get('/', function () {
     return view('conformation');
 });
 Route::get('/home',[homeCon::class,'index']);
+Route::get('/about',[aboutCon::class,'index']);

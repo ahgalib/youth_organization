@@ -1,0 +1,14 @@
+$(document).ready(function(){
+    $(".q").hide();
+    $(".plan").hide();
+    $(".moto").hide();
+    $("#show").click(function(){
+      $('.q').show();
+    });
+    $("#Planshow").click(function(){
+        $('.plan').show();
+      });
+    $("#Motoshow").click(function(){
+        $('.moto').show();
+      });
+  });

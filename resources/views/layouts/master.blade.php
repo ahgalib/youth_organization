@@ -34,6 +34,8 @@
 
     <!-- droupdown navbar -->
     <script src="js/navbarJs.js"></script>
+<!-- frontEnd js -->
+    <script src="js/frontEnd.js"></script>
   
 
 </body>
