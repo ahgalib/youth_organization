@@ -1,5 +1,6 @@
 @extends('layouts.master')
 @section('content')
+
 <div class="bg-light">
 <button class="btn btn-danger" id="show">show</button>
     <div class="row p-4 q">
