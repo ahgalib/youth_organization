@@ -63,6 +63,12 @@
     display: block;
     text-align: left;
   }
+
+  .about-sidebar li {
+      color:red;
+      display: inline-block;
+      margin-left:10px;
+  }
   
   /* Add a dark background on topnav links and the dropdown button on hover */
   .topnav a:hover, .dropdown:hover .dropbtn {
@@ -112,4 +118,7 @@
       width: 100%;
       text-align: left;
     }
+
+   
   }
+ 
