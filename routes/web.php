@@ -19,4 +19,6 @@ Route::get('/', function () {
     return view('conformation');
 });
 Route::get('/home',[homeCon::class,'index']);
+//Route::post('/homeAjax',[homeCon::class,'indexAjax']);
 Route::get('/about',[aboutCon::class,'index']);
+Route::post('/aboutNgo',[aboutCon::class,'ngoInfo']);

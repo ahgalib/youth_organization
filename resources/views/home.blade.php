@@ -12,7 +12,7 @@
                 </div>
             </div> 
         </div>
-</div>
+    </div>
     <!-- kicu kotha section end -->
     <div class="bg-light mt-4">
     <h1 class="text-center p-4">Let's help other</h1>
@@ -48,7 +48,5 @@
                 </div>
             </div>
         </div>
-        
-        
     </div>
 @endsection

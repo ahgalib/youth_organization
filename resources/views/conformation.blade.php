@@ -41,8 +41,8 @@
         <!-- Author Name, My Name, Home Page Title -->
         <div class="home-title">
             <h3>Hello World! I’m</h3>
-            <h1 class="theme-color">Fariha Anjum</h1>
-            <h4>Web Designer & Developer</h4>
+            <h1 class="theme-color">Asadulla Hal</h1>
+            <h4>Student & Web Developer</h4>
             <div class="template-btn">
                 <a href="contact.html" class="pointer-href">Hire me</a>
                 <a href="/home" class="pointer-href">Enter website</a>
